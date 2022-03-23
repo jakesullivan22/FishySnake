@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: jakesullivan22@yahoo.com
+  DevAccountToken: 8dwafubfhqmehtnqcwjpb9o83za6tashrgr5rdd6k4ppi1g6o3gbkxnmjje6ir6kw86auxai8yz7n5uhx46g9zryrpspkshddti697aw48bmox7u1kz7hqb1swhf4c3st13tpzzhi3ypmzcykxdxp18366azzewxti5rrxstthz1e1jh4q7ttb5r9qxz17d9o9kufe5f
+  SelectedStudio: WoodenBucketGames
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
